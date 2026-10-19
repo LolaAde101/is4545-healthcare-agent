@@ -1,0 +1,6 @@
+{
+  "name": "Healthcare Analytics Agent",
+  "description": "Executive dashboard for hospital leadership analyzing patient feedback, satisfaction, NLP themes, hidden organizational bottlenecks, health equity, AI risk monitoring, and strategic agent opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
